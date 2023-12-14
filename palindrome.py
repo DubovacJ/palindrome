@@ -7,4 +7,3 @@ else:
     print("it is NOT a palindrome")
 
 
-print("adsdsadsa")
